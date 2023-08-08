@@ -1,0 +1,30 @@
+body{
+    padding-top: 30px;
+    padding-left: 250px;
+    padding-right: 250px;
+}
+h1{
+    text-align: center;
+}
+
+
+
+
+table{
+    
+    width: 100%;
+    border-collapse: collapse;
+}
+td {
+    
+    height: 30px;
+  vertical-align: bottom;
+  }
+  th {
+    height:70px;
+  }
+
+  th, td {
+    padding: 15px;
+    text-align: left;
+  }
